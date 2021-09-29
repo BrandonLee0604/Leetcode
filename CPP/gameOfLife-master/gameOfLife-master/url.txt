@@ -1,0 +1,11 @@
+https://blogs.mathworks.com/cleve/2012/09/10/game-of-life-part-2-sparse-matrices/
+
+https://www.geeksforgeeks.org/program-for-conways-game-of-life-set-2/
+
+https://cboard.cprogramming.com/general-ai-programming/121528-infinite-game-life.html
+
+https://github.com/MarioTalevski/game-of-life/blob/master/GameOfLife.cpp
+
+https://github.com/m3ller/gameOfLife
+
+https://shanzi.gitbooks.io/algorithm-notes/content/problem_solutions/conways_game_of_life.html

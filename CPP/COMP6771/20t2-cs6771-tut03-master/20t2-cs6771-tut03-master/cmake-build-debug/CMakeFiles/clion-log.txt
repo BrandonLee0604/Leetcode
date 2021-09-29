@@ -1,0 +1,19 @@
+"D:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Leecode\COMP6771\20t2-cs6771-tut03-master\20t2-cs6771-tut03-master
+-- The CXX compiler identification is GNU 8.1.0
+-- Check for working CXX compiler: C:/Program Files/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/Program Files/mingw64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- COMP6771_LAB_CLANG_TIDY_PATH="" not found.
+CMake Error at D:/Program Files/JetBrains/CLion 2019.3.4/bin/cmake/win/share/cmake-3.15/Modules/FindPackageHandleStandardArgs.cmake:137 (message):
+  Could NOT find ClangTidy (missing: ClangTidy_FOUND)
+Call Stack (most recent call first):
+  D:/Program Files/JetBrains/CLion 2019.3.4/bin/cmake/win/share/cmake-3.15/Modules/FindPackageHandleStandardArgs.cmake:378 (_FPHSA_FAILURE_MESSAGE)
+  config/cmake/FindClangTidy.cmake:26 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/Leecode/COMP6771/20t2-cs6771-tut03-master/20t2-cs6771-tut03-master/cmake-build-debug/CMakeFiles/CMakeOutput.log".

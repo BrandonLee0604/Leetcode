@@ -1,0 +1,7 @@
+﻿  GameOfLife_inf.cpp
+D:\Leecode\CPP\GameOfLife_inf\GameOfLife_inf.cpp(33,28): warning C4018: '<': signed/unsigned mismatch
+D:\Leecode\CPP\GameOfLife_inf\GameOfLife_inf.cpp(34,32): warning C4018: '<': signed/unsigned mismatch
+D:\Leecode\CPP\GameOfLife_inf\GameOfLife_inf.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+D:\Leecode\CPP\GameOfLife_inf\GameOfLife_inf.cpp(43,43): warning C4018: '<': signed/unsigned mismatch
+D:\Leecode\CPP\GameOfLife_inf\GameOfLife_inf.cpp(65,1): warning C4804: '<=': unsafe use of type 'bool' in operation
+  GameOfLife_inf.vcxproj -> D:\Leecode\CPP\GameOfLife_inf\Debug\GameOfLife_inf.exe

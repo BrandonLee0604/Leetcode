@@ -1,0 +1,2 @@
+D:\Leecode\CPP\TestDome\Debug\TestDome.exe
+D:\Leecode\CPP\TestDome\Debug\TestDome.pdb

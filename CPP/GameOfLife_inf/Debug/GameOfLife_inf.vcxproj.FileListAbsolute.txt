@@ -1,0 +1,2 @@
+D:\Leecode\CPP\GameOfLife_inf\Debug\GameOfLife_inf.exe
+D:\Leecode\CPP\GameOfLife_inf\Debug\GameOfLife_inf.pdb
